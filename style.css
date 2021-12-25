@@ -1,0 +1,42 @@
+/* Général */
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.4rem;
+    font-family: "Quicksand", sans-serif;
+    color: #777;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #eee;
+}
+
+.container-notifications {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    margin: 3rem;
+    font-size: 1.2rem;
+}
+
+.btn {
+    border: none;
+    color: white;
+    padding: 1rem;
+    margin: 2rem;
+    background-color: green;
+}
