@@ -1,0 +1,3 @@
+Au clic (event) sur le bouton (élément)
+une div est créée (élément) et ajoutée dans la div-container-notifications(action) pendant quelques secondes
+
